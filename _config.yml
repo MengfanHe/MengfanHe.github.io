@@ -1,1 +1,17 @@
-theme: jekyll-theme-slate
+future: true
+permalink: /:title/
+url: http://mengfanhe.github.io
+name: 贺梦凡
+author: 贺梦凡
+qq: 454787504
+email: 454787504@qq.com
+
+duoshuo: 
+beian: 
+cnzz: 
+weibo: 
+github: MengfanHe
+about: "这里是 贺梦凡 的个人博客，创建于 2017 年。"
+
+safe: true
+paginate: 20
